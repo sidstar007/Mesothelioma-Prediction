@@ -3,6 +3,8 @@
 <h3>Overview</h3>
 This repository contains code for predicting mesothelioma using gradient boosting machine learning algorithms. Mesothelioma is a type of cancer that develops from the thin layer of tissue that covers many of the internal organs, most commonly the lungs and chest wall. Predicting mesothelioma can aid in early diagnosis and intervention, potentially improving patient outcomes.
 
+![image](https://github.com/sidstar007/Mesothelioma-Prediction/assets/101045408/c6a173b3-ebe4-41b1-831f-5beef1b39ef4)
+
 
 <h3>Introduction</h3>
 Mesothelioma prediction is a crucial task in the medical field for early detection and treatment planning. This project utilizes gradient boosting algorithms, a powerful machine learning technique, to predict the likelihood of mesothelioma based on various features such as demographic information, medical history, and exposure to asbestos.
