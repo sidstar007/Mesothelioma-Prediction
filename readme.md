@@ -12,5 +12,5 @@ Mesothelioma prediction is a crucial task in the medical field for early detecti
 The dataset used in this project contains anonymized patient data including demographic details, medical history, asbestos exposure information, and mesothelioma diagnosis status. The dataset is not included in this repository due to privacy concerns.
 
 
-</h3>Methodology</h3>
+<h3>Methodology</h3>
 Gradient boosting is a machine learning technique that builds an ensemble of decision trees sequentially, where each tree corrects the errors of the previous one. The gradient boosting algorithm used in this project is implemented using the scikit-learn library in Python.
