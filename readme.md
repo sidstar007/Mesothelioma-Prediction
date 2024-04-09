@@ -3,7 +3,7 @@
 <h3>Overview</h3>
 This repository contains code for predicting mesothelioma using gradient boosting machine learning algorithms. Mesothelioma is a type of cancer that develops from the thin layer of tissue that covers many of the internal organs, most commonly the lungs and chest wall. Predicting mesothelioma can aid in early diagnosis and intervention, potentially improving patient outcomes.
 
-<img src="https://www.mesothelioma.com/wp-content/uploads/MESO_2020_subpage_how_meso_forms.svg" width="256" height="256">
+<img src="https://www.svhlunghealth.com.au/Images/UserUploadedImages/3461/12_SVH_Lung_Health_Mesothelioma_final_1080p.jpg" width="300" height="300">
 
 
 <h3>Introduction</h3>
